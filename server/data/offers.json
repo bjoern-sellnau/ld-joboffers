@@ -1,0 +1,113 @@
+[
+  {
+    "active": true,
+    "name": "LuxeLabs",
+    "favourite": true,
+    "joboffer": true,
+    "url": "https://google.com",
+    "recruiter": 6,
+    "canceled": false,
+    "reason": "Habe das Angebot von 58275 und 25 Tage Urlaub angenommen !",
+    "contact": true,
+    "steps": [
+      "Interview am Montag (27.03.2020) um 15:30",
+      "Coding Challenge Live",
+      "Vertragsverhandlungen"
+    ],
+    "stepsFinished": 3,
+    "salary": {
+      "min": 58000,
+      "max": 58275
+    },
+    "notes": [],
+    "id": "83c78e0e-78ee-5239-aa03-b2cfcda7a124",
+    "addedAt": "2020-03-22",
+    "updatedAt": "2020-04-06"
+  },
+  {
+    "active": true,
+    "name": "BlueMonkey",
+    "isRejected": true,
+    "favourite": false,
+    "url": "https://google.com",
+    "recruiter": 1,
+    "canceled": true,
+    "reason": "Kommt nicht für mich in Frage",
+    "contact": true,
+    "steps": [
+      "Skype Interview am 30.03.2020 um 15:00"
+    ],
+    "stepsFinished": 1,
+    "salary": {
+      "min": 76313,
+      "max": 76313
+    },
+    "notes": [],
+    "id": "83c78e0e-78ee-5239-aa03-b2cfcda7a124",
+    "addedAt": "2020-03-22",
+    "updatedAt": "2020-03-30"
+  },
+  {
+    "active": false,
+    "name": "CogniFuse",
+    "favourite": false,
+    "url": "https://www.google.com",
+    "recruiter": 8,
+    "canceled": false,
+    "reason": null,
+    "contact": true,
+    "steps": [],
+    "stepsFinished": 0,
+    "salary": {
+      "min": 58275,
+      "max": 76313
+    },
+    "notes": [],
+    "id": "83c78e0e-78ee-5239-aa03-b2cfcda7a124",
+    "addedAt": "2020-03-26",
+    "updatedAt": "2020-03-26"
+  },
+  {
+    "active": true,
+    "name": "Modern Square",
+    "favourite": false,
+    "url": "https://www.google.com",
+    "recruiter": 3,
+    "canceled": false,
+    "reason": null,
+    "contact": true,
+    "onHold": true,
+    "steps": [
+      "Telefoninterview am 5.5.2020"
+    ],
+    "stepsFinished": 0,
+    "salary": {
+      "min": 58275,
+      "max": 76313
+    },
+    "notes": [],
+    "id": "83c78e0e-78ee-5239-aa03-b2cfcda7a124",
+    "addedAt": "2020-02-26",
+    "updatedAt": "2020-02-28"
+  },
+  {
+    "active": true,
+    "name": "Aquada Technologies",
+    "favourite": false,
+    "url": "https://www.google.com",
+    "recruiter": 6,
+    "canceled": false,
+    "reason": null,
+    "contact": true,
+    "steps": [],
+    "stepsFinished": 0,
+    "salary": {
+      "min": 58275,
+      "max": 76313
+    },
+    "notes": [],
+    "id": "83c78e0e-78ee-5239-aa03-b2cfcda7a124",
+    "addedAt": "2020-03-26",
+    "updatedAt": "2020-03-27"
+  }
+]

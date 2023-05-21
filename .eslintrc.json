@@ -1,0 +1,40 @@
+{
+  "extends": [
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "react-app"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 9,
+    "ecmaFeatures": {
+      "impliedStrict": true,
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "plugins": ["simple-import-sort", "prettier", "import", "react"],
+  "rules": {
+    "simple-import-sort/sort": "error",
+    "sort-imports": "off",
+    "prettier/prettier": "error",
+    "import/first": "error",
+    "import/newline-after-import": "error",
+    "import/no-duplicates": "error",
+    "react/self-closing-comp": [
+      "error",
+      {
+        "component": true,
+        "html": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Kadie Ruiz",
+    "company": "Job Zing",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Ismaeel Warren",
+    "company": "Expert Hire",
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Nicholas Marshall",
+    "company": "Quick Hires Group",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Chad Tapia",
+    "company": "Core Match Inc",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Robbie Parks",
+    "company": "SkillSeeker",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Anastasia Rosario",
+    "company": "HireRocket",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Jude Bryant",
+    "company": "Work Linker",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Gerald Davila",
+    "company": "Career Champ",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Reid Todd",
+    "company": "JobTune",
+    "active": true
+  }
+]
